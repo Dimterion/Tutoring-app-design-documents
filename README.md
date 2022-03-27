@@ -1,4 +1,4 @@
-# Design example for the tutoring app
+# Tutoring app design documents
 
 OpenClassrooms project
 
