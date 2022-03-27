@@ -4,7 +4,10 @@ OpenClassrooms project
 
 ## Link to the design documents
 
-[]()
+- [Use case diagrams for the app - PDF](https://github.com/Dimterion/Tutoring-app-design-documents/blob/main/Learn%40Home-Use-Case-Diagrams.pdf)
+- [User strories and acceptance criteria - PDF](https://github.com/Dimterion/Tutoring-app-design-documents/blob/main/Learn%40Home-User-Stories%26Acceptance-Criteria.pdf)
+- [Mockups of the website with a basic design - Figma](https://www.figma.com/file/qDDZ2eiDEahw7V3LQqf76E/Learn%40Home-mockups)
+- [Kanban board with blocks of functionalities and sub-functionalities for development - Notion](https://even-moonflower-317.notion.site/Dev4U-Learn-Home-Project-d44972791de04bcfad1c1cb272b09cd9)
 
 ## Task
 
