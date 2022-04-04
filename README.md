@@ -2,6 +2,10 @@
 
 OpenClassrooms project
 
+## Description
+
+This project required the preparation of the design for the future tutoring website. This should include documents presented in the following links and described in the task section. Criteria and requirements for the project can be found [here](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Learn%40Home+Meeting.pdf).
+
 ## Link to the design documents
 
 - [Use case diagrams for the app - PDF](https://github.com/Dimterion/Tutoring-app-design-documents/blob/main/Learn%40Home-Use-Case-Diagrams.pdf)
